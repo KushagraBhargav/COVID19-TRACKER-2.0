@@ -1,9 +1,9 @@
 <p align="left">
    <img src="https://i.ibb.co/7yfpzWZ/image.png" width="150"/>
 </p>
+
 # COVID-19 Tracker
-[![Author](https://img.shields.io/badge/author-KushagraBhargav-F2C702?style=flat-square)](https://github.com/KushagraBhargav)
-[![Languages](https://img.shields.io/github/languages/count/KushagraBhargav/COVID19-TRACKER-2.0?color=%23F2C702&style=flat-square)](#)
+[![GitHub stars](https://img.shields.io/github/stars/KushagraBhargav/COVID19-TRACKER-2.0.svg?logo=github)](https://github.com/KushagraBhargav/COVID19-Tracker/stargazers) [![GitHub forks](https://img.shields.io/github/forks/KushagraBhargav/COVID19-TRACKER-2.0.svg?logo=github&color=teal)](https://github.com/KushagraBhargav/COVID19-TRACKER-2.0/network) [![GitHub top language](https://img.shields.io/github/languages/top/KushagraBhargav/COVID19-TRACKER-2.0?color=yellow&logo=javascript)](https://github.com/KushagraBhargav/COVID19-TRACKER-2.0)
 
 > A web app to represent the data of COVID-19 epidemic.
 
